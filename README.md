@@ -56,6 +56,7 @@ conda install -c conda-forge versioneer
 conda install -c bioconda bbmap
 conda install -c bioconda bwa
 conda install -c bioconda bowtie2
+conda install -c conda-forge xmltodict
 ```
 
 ## Testing `q2-asap`
